@@ -1,0 +1,2 @@
+Em git, um commit refere-se a uma operação que salva as mudanças feitas nos arquivos do repositório.
+É uma unidade fundamental no controle de versão, premitindo que a equipe rastreie e gerencie o histórico de alterações em um projeto.
