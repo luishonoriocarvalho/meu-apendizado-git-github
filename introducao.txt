@@ -1,0 +1,4 @@
+O que é o git:
+é um sistema de controle de versão de arquivos
+o que é github:
+serviço para hospedar projetos git
